@@ -117,12 +117,12 @@ This charts shows all the high upward velocity or rate of level level increase e
 
 #### Tame river Delph , Change of river level, per Day.  
 
-![alt tag](charts/Tame-delph-LevelChgepDay.png)  
+![alt tag](Charts/Tame-delph-LevelChgepDay.png)  
 
 
 #### Tame river Delph , Rate of change of river level, per Day
 
-![alt tag](charts/Tame-delph-RateofLevelChgepDay.png)  
+![alt tag](Charts/Tame-delph-RateofLevelChgepDay.png)  
 
 
 This chart shows the acceleration of river level, or how quickly the level change speed changes. It shows lower levels of acceleration at firts, increasing through 2015 - 2016, and reamaining high during the relatively low rainfall of 2018 - 2019.
@@ -130,12 +130,12 @@ This chart shows the acceleration of river level, or how quickly the level chang
 
 #### Tame river Delph, Acceleration of river levels increase from 2012 - 2019
 
-![alt tag](charts/Tame-delph-AccelerationofLevelChgepDay.png)  
+![alt tag](Charts/Tame-delph-AccelerationofLevelChgepDay.png)  
 
 
 #### Tame River Delph - Number of days at each level band 2012 - 2019
 
-![alt tag](charts/Tame-delph-DaysatLevel.png)  
+![alt tag](Charts/Tame-delph-DaysatLevel.png)  
 
 
 
@@ -185,16 +185,16 @@ This chart shows the maximum river levels per day.
 
 #### Tame Mossley -  Maximum Levels per day, 330cm = Flood risk  
 
-![alt tag](charts/TameMossleyMaxLvlpDay.png)  
+![alt tag](Charts/TameMossleyMaxLvlpDay.png)  
 
 
 #### Tame Mossley - Maximum river Levels per day - per week.  
 
-![alt tag](charts/TameMossleyAvLvlpDay.png)  
+![alt tag](Charts/TameMossleyAvLvlpDay.png)  
 
 ### Tame Mossley - Change in Average river Levels per day.  
 
-![alt tag](charts/TameMossleyMaxLvlpDay-week.png)  
+![alt tag](Charts/TameMossleyMaxLvlpDay-week.png)  
 
 
 #### North West England Rainfall level (mm) per Month.   

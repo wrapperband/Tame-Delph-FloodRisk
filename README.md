@@ -115,38 +115,27 @@ Simply put, the peaks of river level rise rate are generally increasing, when th
 This charts shows all the high upward velocity or rate of level level increase events. The events are shown averaged over a month to clearly show how flooding events are getting faster, longer and more frequent.
 
 
-#### Tame river Mossley , Rate of change of river level upwards and Gtr 50 cm/d, per Month.  
+#### Tame river Delph , Change of river level, per Day.  
 
-![alt tag](charts/TameMossleyVelocityofUpwardLevelChangePerMonthGtr50pDay.png)  
+![alt tag](charts/Tame-delph-LevelChgepDay.png)  
 
 
-#### Tame river Mossley , Rate of change of river level, per week
+#### Tame river Delph , Rate of change of river level, per Day
 
-![alt tag](charts/TameMossleyMaxLvl.ChangeRate.pWeek.png)  
+![alt tag](charts/Tame-delph-RateofLevelChgepDay.png)  
 
 
 This chart shows the acceleration of river level, or how quickly the level change speed changes. It shows lower levels of acceleration at firts, increasing through 2015 - 2016, and reamaining high during the relatively low rainfall of 2018 - 2019.
 
 
-#### Tame river Mossley, Acceleration of river levels increase from 1012 - 2019, over 200 (cm/d2)
+#### Tame river Delph, Acceleration of river levels increase from 2012 - 2019
 
-![alt tag](charts/TameMossleyAccelerationofLevelChangePerDayGtr200.png)  
-
-
-#### Tame river  Mossley, River level 22/3/2019, Warning and Maximum recorded level
-
-![alt tag](charts/TameMossleyFloodLvl-HighestLvl.png)  
+![alt tag](charts/Tame-delph-AccelerationofLevelChgepDay.png)  
 
 
-#### Tame River Mossley - Number of days at each level  2012 - 2019
+#### Tame River Delph - Number of days at each level band 2012 - 2019
 
-![alt tag](charts/TameMossleyDaysAtLevel.2.png)  
-
-
-#### Tame River Mossley - River Tame high level 17/3/2019
-
-![alt tag](charts/17-3-2019-DailyChart-Riverlevels.uk-Tame-mossley-waggon-road.png)  
-
+![alt tag](charts/Tame-delph-DaysatLevel.png)  
 
 
 
@@ -164,7 +153,7 @@ The recent flood level of the Tame at Uppermill and near flood levels at Mossley
 
 It was only through abnormal luck and shortness of the bad weather that the recent flood levels of the Tame at Uppermill  March 2019 did not result serious flooding at Uppermill or Mossley.
 
-**Flood hazards and danger in Mossley is High**
+**Flood hazards downstream and danger in Mossley is High**
 
 There is significant danger, buildings have fell down [Ref17] : July 2008 Mill collapses in Mossley.  
 
@@ -185,10 +174,6 @@ It may also be possible to extract more information from the daily data by cross
 **Cross reference river levels to building developments**
 
 Data could also be cross related to historical developments levels in the area, however requests for development data showed that is not made available..  
-
-**Review Mossley Waggon gauge river warning and alarm levels**
-
-The flood in Mossley on 11/9/2017 and 21st/11/2016 both show that the flood warning level should be decreased to ~80cm and the alarm level be set ~240cm at the Waggon gauge Uppermill.  
 
 
 

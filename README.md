@@ -125,7 +125,7 @@ This charts shows all the high upward velocity or rate of level level increase e
 ![alt tag](Charts/Tame-delph-RateofLevelChgepDay.png)  
 
 
-This chart shows the acceleration of river level, or how quickly the level change speed changes. It shows lower levels of acceleration at firts, increasing through 2015 - 2016, and reamaining high during the relatively low rainfall of 2018 - 2019.
+This chart shows the acceleration of river level, or how quickly the level change speed changes. It shows lower levels of acceleration at first, increasing through 2015 - 2016, and reamaining high during the relatively low rainfall of 2018 - 2019.
 
 
 #### Tame river Delph, Acceleration of river levels increase from 2012 - 2019
@@ -224,6 +224,25 @@ This chart shows the maximum river levels per day.
 ![alt tag](FloodImages/Well-i-hole-Farm-campsite-is-evacuated-and-animals-rescued.Pic.StuartLittleford.jpg)  
 
 
+
+#### Delph Floods 2015 a. [Ref24].  
+
+![alt tag](FloodImages/Delph.flood.2015a.png)  
+
+#### Delph Floods 2015 b. [Ref24].  
+
+![alt tag](FloodImages/Delph.flood.2015b.png)  
+
+#### Delph Floods 2015 c. [Ref24].  
+
+![alt tag](FloodImages/Delph.flood.2015c.png)  
+
+#### Delph Floods 2015 d. [Ref24].  
+
+![alt tag](FloodImages/Delph.flood.2015d.png)  
+
+
+
 #### Destroyed gardens of flooded cottages in Millbrook, Stalybridge [Ref9]  
 
 ![alt tag](FloodImages/FloodDamage2016-Destroyed-gardens-of-flooded-cottages-in-Millbrook.Stalybridge.png)  
@@ -277,7 +296,7 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref21] : North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf  
 [Ref22] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
 [Ref23] : Gaugemap river level at Mossley Waggon Rd : https://www.gaugemap.co.uk/#!Map/Summary/549/557  
-
+[Ref24] : Floods in Delph 2015 : https://www.youtube.com/watch?v=jvorAcnuXTM
 
 
 

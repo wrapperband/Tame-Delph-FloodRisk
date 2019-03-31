@@ -183,18 +183,18 @@ Data could also be cross related to historical developments levels in the area, 
 This chart shows the maximum river levels per day.  
 
 
-#### Tame Mossley -  Maximum Levels per day, 330cm = Flood risk  
+#### Tame Delph -  Maximum Levels per day, 151cm = Flood risk  
 
-![alt tag](Charts/TameMossleyMaxLvlpDay.png)  
+![alt tag](Charts/Tame-delph-Max-LevelpDay.png)  
 
 
-#### Tame Mossley - Maximum river Levels per day - per week.  
+#### Tame Delph - Maximum river Levels per day - per week.  
 
-![alt tag](Charts/TameMossleyAvLvlpDay.png)  
+![alt tag](Charts/Tame-delph-Max-LevelpWeek.png)  
 
-### Tame Mossley - Change in Average river Levels per day.  
+### Tame Delph - Change in Average river Levels per day.  
 
-![alt tag](Charts/TameMossleyMaxLvlpDay-week.png)  
+![alt tag](Charts/Tame-delph-RateofLevelChgepDay.png)  
 
 
 #### North West England Rainfall level (mm) per Month.   
@@ -212,9 +212,9 @@ This chart shows the maximum river levels per day.
 ![alt tag](charts/RainFallNorthWest-1910-2019-150mm.png)  
 
 
-#### [Ref23] : Gaugemap river level at Mossley Waggon Rd - last month near flood levels.
+#### [Ref23] : Gaugemap river level at Delph - March 2019 near flood levels.
 
-![alt tag](charts/TameMossleyMarchNearFlood1Month.png)  
+![alt tag](charts/Tame-delph-GaugemapMarch2019.png)  
 
 
 ### Flood Images  

@@ -242,6 +242,25 @@ This chart shows the maximum river levels per day.
 ![alt tag](FloodImages/Delph.flood.2015d.png)  
 
 
+#### Flood at Dobcross Blocked drains [Ref25].    
+
+![alt tag](FloodImages/Flood at Dobcross-WP_000789SaddleworthLife.jpg)  
+
+#### Flood at Delph Oldham Chronicle.    
+
+![alt tag](FloodImages/Flood-Delph.20151229_122725-OldhamChronicle.jpg)  
+
+
+
+#### Flood at Uppermill 2015 - Nick Watts.    
+
+![alt tag](FloodImages/Uppermill-Flood2015-river-tame-uppermill-nick-watts.jpg)  
+
+
+#### Flood at Greenfield Trevor Baxter.    
+
+![alt tag](FloodImages/flood-Greenfeild-chew-valley-road-by-trevor-baxter.jpg)  
+
 
 #### Destroyed gardens of flooded cottages in Millbrook, Stalybridge [Ref9]  
 
@@ -297,6 +316,8 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref22] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
 [Ref23] : Gaugemap river level at Mossley Waggon Rd : https://www.gaugemap.co.uk/#!Map/Summary/549/557  
 [Ref24] : Floods in Delph 2015 : https://www.youtube.com/watch?v=jvorAcnuXTM
+[Ref25] : Blocked Drains and Floods Dobcross : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/
+
 
 
 

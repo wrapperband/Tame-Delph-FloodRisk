@@ -315,9 +315,9 @@ Pictures taken and sent in by Denzil Broadhurst, Deputy Team Leader, Oldham Moun
 [Ref21] : North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf  
 [Ref22] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
 [Ref23] : Gaugemap river level at Mossley Waggon Rd : https://www.gaugemap.co.uk/#!Map/Summary/549/557  
-[Ref24] : Floods in Delph 2015 : https://www.youtube.com/watch?v=jvorAcnuXTM
-[Ref25] : Blocked Drains and Floods Dobcross : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/
-[Ref26] : Delph Flooding 2015 : https://www.youtube.com/watch?v=WMnwtJjmnls
+[Ref24] : Floods in Delph 2015 : https://www.youtube.com/watch?v=jvorAcnuXTM  
+[Ref25] : Blocked Drains and Floods Dobcross : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/  
+[Ref26] : Delph Flooding 2015 : https://www.youtube.com/watch?v=WMnwtJjmnls  
 
 
 

@@ -199,22 +199,22 @@ This chart shows the maximum river levels per day.
 
 #### North West England Rainfall level (mm) per Month.   
 
-![alt tag](charts/RainFallNorthWest-2012-2019.png)  
+![alt tag](Charts/RainFallNorthWest-2012-2019.png)  
 
 
 #### Number of Months in North West England with rainfall over 200 mm per Month from 1910 - 2019.  
 
-![alt tag](charts/RainFallNorthWest-1910-2019-200mm.png)   
+![alt tag](Charts/RainFallNorthWest-1910-2019-200mm.png)   
 
 
 #### Number of Months in North West England  with rainfall over 150 mm per Month from 1910 - 2019.    
 
-![alt tag](charts/RainFallNorthWest-1910-2019-150mm.png)  
+![alt tag](Charts/RainFallNorthWest-1910-2019-150mm.png)  
 
 
 #### [Ref23] : Gaugemap river level at Delph - March 2019 near flood levels.
 
-![alt tag](charts/Tame-delph-GaugemapMarch2019.png)  
+![alt tag](Charts/Tame-delph-GaugemapMarch2019.png)  
 
 
 ### Flood Images  

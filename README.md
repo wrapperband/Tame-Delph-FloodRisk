@@ -163,7 +163,7 @@ There is significant danger, buildings have fell down [Ref17] : July 2008 Mill c
 
 ### Further work : 
 
-**Monitor raw data not daily avaerages**
+**Monitor raw river data not daily averages**
 
 Raw data from the Tame may be examined, once it is released, to measure any increase in rate of level increase.  
 
